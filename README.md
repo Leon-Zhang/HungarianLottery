@@ -5,3 +5,6 @@ Hungarian lottery where players choose 5 distinct numbers from 1 to 90. The lott
 - Optimiaztions
 
 Using 90-bit bitmap to replace single int in comparsion and thus improve performance. 
+
+
+input.zip encloses input.txt used as command line argument for input of player numbers.
